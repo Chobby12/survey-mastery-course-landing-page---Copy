@@ -874,7 +874,7 @@ export default function App() {
                 text: "I was skeptical ehn! But Module 5 withdrawal guide worked. First Grey alert: $15. My PPA mate don buy am too. This thing legit!",
                 amt: "$15.00 withdrawn",
                 time: "2 weeks in",
-                img: "../public/pictures/WhatsApp Image 2026-09-21 at 16.29.34.jpeg"
+                img: "/pictures/WhatsApp Image 2026-09-21 at 16.29.34.jpeg"
               },
               {
                 name: "Tunde A.",
