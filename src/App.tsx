@@ -884,7 +884,7 @@ export default function App() {
                 text: "I do surveys 8–9pm after work. Last month na $20. No be millions, but fuel + savings sorted. Omo, pounds sweet!",
                 amt: "$20.00 last month",
                 time: "2 months in",
-                img: "../public/pictures/WhatsApp Image 2026-09-21 at 16.29.34 (2).jpeg"
+                img: "/pictures/WhatsApp Image 2026-09-21 at 16.29.34 (2).jpeg"
               },
               {
                 name: "Fatima S.",
@@ -904,7 +904,7 @@ export default function App() {
                 text: "Prolific accepted me after using the profile template. Na the Module 3 hack! First survey paid $26.64 for 25 mins. I don off data begging.",
                 amt: "$26.64 in 25 mins",
                 time: "9 days in",
-                img: "../public/pictures/WhatsApp Image 2026-09-21 at 16.29.33 (2).jpeg"
+                img: "/pictures/WhatsApp Image 2026-09-21 at 16.29.33 (2).jpeg"
               },
               {
                 name: "Adaeze O.",
@@ -914,7 +914,7 @@ export default function App() {
                 text: "Mummy thought na scam until I showed her Grey receipt. Now she wants link 😂. Support group dey answer questions fast fast.",
                 amt: "£36.38 withdrawn",
                 time: "3 weeks in",
-                img: "../public/pictures/WhatsApp Image 2026-09-21 at 16.29.33.jpeg"
+                img: "/pictures/WhatsApp Image 2026-09-21 at 16.29.33.jpeg"
               },
               {
                 name: "Ibrahim M.",
@@ -924,7 +924,7 @@ export default function App() {
                 text: "Allaah! Swagbucks + Toluna combo dey pay me steady. Not rich yet but allowee don get elder brother. Worth every naira of the ₦9,900.",
                 amt: "$143.00 total",
                 time: "6 weeks in",
-                img: "../public/pictures/WhatsApp Image 2026-09-21 at 16.29.34 (1).jpeg"
+                img: "/pictures/WhatsApp Image 2026-09-21 at 16.29.34 (1).jpeg"
               },
             ].map((t, i) => (
               <motion.div
